@@ -1,10 +1,10 @@
-# Yan Chuiko's Portfolio
+# My Portfolio
 
-This is Yan Chuiko's portfolio website, showcasing his experience, projects, and contact information.
+This is my portfolio website, where I'm showcasing my experience, projects, and contact information.
 
 ## Table of Contents
 
-- [Yan Chuiko's Portfolio](#yan-chuikos-portfolio)
+- [My Portfolio](#my-portfolio)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
