@@ -26,6 +26,6 @@ To use this project, open the `index.html` file in your web browser. The website
 
 To enable dark mode, click the toggle button in the top right corner of the page.
 
-## Contributing
+You can also view the website online at https://yanchuiko.me/.
 
-Contributions to this project are welcome. To contribute, follow these steps:
+## Contributing
