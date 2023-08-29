@@ -1,6 +1,6 @@
 # My Portfolio
 
-This is my portfolio website, where I'm showcasing my experience, projects, and contact information.
+This is my portfolio website, where I'm showcasing my experience, projects, and contact information. The website also includes a dark mode feature for improved readability in low-light environments.
 
 ## Table of Contents
 
@@ -9,7 +9,6 @@ This is my portfolio website, where I'm showcasing my experience, projects, and 
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
 
 ## Installation
 
@@ -25,17 +24,8 @@ To use this project, open the `index.html` file in your web browser. The website
 - Projects: A showcase of Yan Chuiko's projects
 - Contact: Yan Chuiko's contact information
 
+To enable dark mode, click the toggle button in the top right corner of the page.
+
 ## Contributing
 
 Contributions to this project are welcome. To contribute, follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/my-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add some feature'`)
-5. Push to the branch (`git push origin feature/my-feature`)
-6. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
